@@ -9,8 +9,11 @@ The implementation is part of my own challenge while studing WebGPU, any improvm
 Contains : 
 
 MipMap for floor texture
+
 Sky Cube 
+
 Depth Peeling Render
+
 Moving camera in world space using keyboard and mouse
 
 
