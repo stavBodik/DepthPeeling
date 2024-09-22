@@ -1,4 +1,4 @@
-# Dual Peeling - WebGPU Implementation - Introduced by Cass Everitt 
+# Depth Peeling - WebGPU Implementation - Introduced by Cass Everitt 
 
 This repository is my implementation to Depth Peeling that was Introduced by Louis Bavoil and Kevin Myers on 
 
